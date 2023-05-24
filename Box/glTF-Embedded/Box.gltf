@@ -142,16 +142,16 @@
     "extensions" : [
       {
 	    "posx" : 100,
-	    "posy" : 100,
+	    "posy" : 200,
 	    "posz" : 300
       },
       {
-	    "rotx" : 45,
+	    "rotx" : 90,
 	    "roty" : 90,
 	    "rotz" : 90
       },
       {
-	    "scale" : 10
+	    "scale" : 5
       }
    ]
 }
